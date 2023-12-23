@@ -4,4 +4,8 @@ This is a Refeshing Knowledge React Project of a Tic-Tac-Toe Game
 
 Deployed site: https://tic-tac-toe-game-pt2x1k3me-roxzkil.vercel.app/
 
-<img src="https://ibb.co/MgyBpSn](https://i.ibb.co/yNm45P0/Sin-t-tulo.jpg)https://i.ibb.co/yNm45P0/Sin-t-tulo.jpg" alt="not found"/>
+<p align="center">
+  <img height="800" src="![Sin título](https://github.com/RoxZkiL/tic-tac-toe/assets/78183425/23933347-2e18-409d-8620-7865cf5c6160)
+" />
+</p>
+
